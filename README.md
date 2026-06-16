@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence and Robotics
 - 🌱 I’m currently learning Machine learning and deep learning
 - 💞️ I’m looking to collaborate on AI & Robotics. 
-- 📫 You to reach me via 📧 chmbnarayana@gmail.com
+- 📫 You can reach me via 📧 chmbnarayana@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Don't be lazy, always be crazy😉
-- PX4_Autopilot, Gazebo, Python
+- PX4_Autopilot, Gazebo, Python, QGIS
